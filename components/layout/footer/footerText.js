@@ -64,7 +64,7 @@ export default function footerText({ toggleAbout, setToggleAbout }) {
         transition={transition(3.5)}
       >
         <span>Copyright©{new Date().getFullYear()} by </span>
-        <a href="http://TheIceJI.com">Jirayu Ninlapun</a>
+        <a href="/home">Jirayu Ninlapun</a>
         <span>. All rights reserved</span>
       </motion.p>
     </div>
