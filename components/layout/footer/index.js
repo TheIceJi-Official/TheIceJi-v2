@@ -113,7 +113,7 @@ const Text = () => {
     <div className={FooterText}>
       <p initial={Init} animate={Animated} transition={transition(3.5)}>
         <span>Copyright ©2021 Designed by </span>
-        <a href='http://TheIceJI.com'>Jirayu Ninlapun</a>
+        <a href='/home'>Jirayu Ninlapun</a>
         <span>. All rights reserved</span>
       </p>
     </div>
